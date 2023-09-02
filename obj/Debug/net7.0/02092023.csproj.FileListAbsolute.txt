@@ -1,0 +1,15 @@
+C:\Users\Vludisluv\Desktop\Gb\CSharp\02092023\bin\Debug\net7.0\02092023.exe
+C:\Users\Vludisluv\Desktop\Gb\CSharp\02092023\bin\Debug\net7.0\02092023.deps.json
+C:\Users\Vludisluv\Desktop\Gb\CSharp\02092023\bin\Debug\net7.0\02092023.runtimeconfig.json
+C:\Users\Vludisluv\Desktop\Gb\CSharp\02092023\bin\Debug\net7.0\02092023.dll
+C:\Users\Vludisluv\Desktop\Gb\CSharp\02092023\bin\Debug\net7.0\02092023.pdb
+C:\Users\Vludisluv\Desktop\Gb\CSharp\02092023\obj\Debug\net7.0\02092023.csproj.AssemblyReference.cache
+C:\Users\Vludisluv\Desktop\Gb\CSharp\02092023\obj\Debug\net7.0\02092023.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vludisluv\Desktop\Gb\CSharp\02092023\obj\Debug\net7.0\02092023.AssemblyInfoInputs.cache
+C:\Users\Vludisluv\Desktop\Gb\CSharp\02092023\obj\Debug\net7.0\02092023.AssemblyInfo.cs
+C:\Users\Vludisluv\Desktop\Gb\CSharp\02092023\obj\Debug\net7.0\02092023.csproj.CoreCompileInputs.cache
+C:\Users\Vludisluv\Desktop\Gb\CSharp\02092023\obj\Debug\net7.0\02092023.dll
+C:\Users\Vludisluv\Desktop\Gb\CSharp\02092023\obj\Debug\net7.0\refint\02092023.dll
+C:\Users\Vludisluv\Desktop\Gb\CSharp\02092023\obj\Debug\net7.0\02092023.pdb
+C:\Users\Vludisluv\Desktop\Gb\CSharp\02092023\obj\Debug\net7.0\02092023.genruntimeconfig.cache
+C:\Users\Vludisluv\Desktop\Gb\CSharp\02092023\obj\Debug\net7.0\ref\02092023.dll
